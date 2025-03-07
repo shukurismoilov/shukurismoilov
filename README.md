@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShukurIsmoilov
 - 👀 I’m interested in absorbing and sharing knowledge
-- 🌱 I’m currently working as Full-Stack web-developer
+- 🌱 I’m currently working as Full-Stack TS-developer
 - 💞️ I’m looking to collaborate on educational projects
 
 <!---
